@@ -7,6 +7,6 @@ import java.util.List;
 
 @Getter
 @Setter
-public class TicketFile {
+public class TicketsFile {
     private List<Ticket> tickets;
 }
